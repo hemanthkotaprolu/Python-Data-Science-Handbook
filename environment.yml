@@ -1,0 +1,10 @@
+name: sentdex
+
+dependencies:
+  - pip
+  - python
+  - numpy
+  - pandas
+  - matplotlib
+  - quandl
+  - scikit-learn
